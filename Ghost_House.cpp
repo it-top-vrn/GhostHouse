@@ -3,6 +3,7 @@ PSScriptInfo
 .VERSION 0.1
 .AUTHOR Dolzhenko Andrey
 .COPYRIGHT © Dolzhenko Andrey, 2019; © Компьютерная академия ШАГ. Воронеж, 2019
+.LICENSE MIT License
 .DESCRIPTION
 Ghost House (или Дом с привидениями) - это консольная игра-угадайка.
 В игре нужно пройти три этажа, чтобы привидение не заметило. Если привидение тебя обнаружит, то игрок теряет одну жизнь.
