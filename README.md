@@ -1,3 +1,4 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHouse/blob/master/LICENSE)
 # Ghost House (Дом с Привидениями)
 Консольная игра-угадайка.
 
