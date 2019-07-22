@@ -78,7 +78,7 @@ void MiddleDoorUser(); // Открытая пустая средняя двер�
 void RightDoorUser(); // Открытая пустая правая дверь, остальные закрыты  
 ```  
 #В игре Вы можете выиграть:  
-<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseWin1.gif  width="40" height="40" />
+<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseWin1.gif  width="150" height="150" />
 
 #Но можете и проиграть:  
-![Alt Text](https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseLost1.gif  width="40" height="40" /)
+<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseLost1.gif  width="150" height="150" />
