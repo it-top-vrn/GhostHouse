@@ -37,9 +37,8 @@
 
 ### <a name="relis"> Воспроизведение:</a>
 
-•	Консоль  
-•	В игре не встроен синтаксический анализатор. Все команды необходимо вводить ЦИФРАМИ,  
-следуя инструкциям в игре.  
+•	Игра воспроизводится в консоле. 
+•	Все команды необходимо вводить ЦИФРАМИ, следуя инструкциям в игре.  
 
 ### <a name="Get">Начало работы:</a>
 
@@ -79,8 +78,8 @@ void RightDoorUser(); // Открытая пустая правая дверь, 
 ```  
 ***В игре Вы можете выиграть:***  
 
-<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseWin1.gif  width="350" height="350" />
+<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseWin1.gif  width="320" height="320" />
 
 ***Но можете и проиграть:***  
 
-<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseLost1.gif  width="350" height="350" />
+<img src=https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseLost1.gif  width="320" height="320" />
