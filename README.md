@@ -76,4 +76,9 @@ void RightDoorGhost(); // Привидение в правой двери, ос�
 void LeftDoorUser(); // Открытая пустая левая дверь, остальные закрыты  
 void MiddleDoorUser(); // Открытая пустая средняя дверь, остальные закрыты  
 void RightDoorUser(); // Открытая пустая правая дверь, остальные закрыты  
-```
+```  
+#В игре Вы можете выиграть:  
+![Alt Text](https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseWin1.gif)
+
+#Но можете и проиграть:  
+![Alt Text](https://github.com/itstep-vrn/GhostHouse/blob/master/GhostHouseLost1.gif)
