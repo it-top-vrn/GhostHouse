@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHouse/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse/badge)](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHouse/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse/badge)](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse) (https://github.com/AndreyDolzhenko)
 # Ghost House (Дом с Привидениями)
 Консольная игра-угадайка.
 
@@ -7,6 +7,7 @@
 - **© Dolzhenko Andrey, 2019**
 - **© Компьютерная академия ШАГ. Воронеж, 2019**
 - **Версия: 0.1 (Июль 2019)**
+- **adol2000@rambler.ru**
 ***
 
 ## Что делает?
