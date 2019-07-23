@@ -1,13 +1,37 @@
 /*
-VERSION 0.1
-AUTHOR Dolzhenko Andrey
-COPYRIGHT © Dolzhenko Andrey, 2019; © Компьютерная академия ШАГ. Воронеж, 2019
-LICENSE MIT License
-DESCRIPTION
+VERSION: 0.1
+AUTHOR: Dolzhenko Andrey
+COPYRIGHT: © Dolzhenko Andrey, 2019; © Компьютерная академия ШАГ. Воронеж, 2019
+LICENSE: MIT License
+DESCRIPTION:
 Ghost House (или Дом с привидениями) - это консольная игра-угадайка.
 В игре нужно пройти три этажа, чтобы привидение не заметило. Если привидение тебя обнаружит, то игрок теряет одну жизнь.
 Всего 3 жизни.
 На игровом поле есть индикаторы: LEVEL - считает каждую попытку; HEART - показывает оставшееся количество жизней; FLOOR - показывает, на каком ты этаже.
+*/
+
+/*
+MIT License
+
+Copyright (c) 2019 Dolzhenko Andrey, Компьютерная академия ШАГ. Воронеж
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 */
 
 
@@ -432,8 +456,8 @@ void Start()
 
 	cout << "\n\n\n";
 
+	cout << "\t(c) Долженко Андрей\n";
 	cout << "\t(c) Компьютерная академия ШАГ. Воронеж\n";
-	cout << "\t(c) Старинин Андрей, Долженко Андрей\n";
 
 }
 
