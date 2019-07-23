@@ -47,9 +47,26 @@
 
 ### <a name="Get">Начало работы:</a>
 
-Скопируйте файл .exe в любое месте на вашем компьютере. Если у вас установлены библиотеки Visual Studio,  
-например, MSVCP140.dll, или сама программа Visual Studio, игра запустится.  
+Скопируйте файл .exe в любое месте на вашем компьютере. Если у вас установлена программа Visual Studio, игра запустится.  
+Если программа Visual Studio не установлена, система может запросить следующие файлы: msvcp140d.dll, vcruntime140.dll, ucrtbased.dll —  это компоненты пакета от корпорации Microsoft Visual C++ 2015.  
+Скачайте данные файлы и разместите в корневой директории windows:  
+- C:\Windows\System32 для x32 системы;
+- C:\Windows\SysWOW64 для x64 системы.  
+Перезагрузить компьютер и запустить нерабочую программу.
 
+***Скачать файлы для Windows 10 и других версий можно пройдя по ссылкам:***  
+
+Для x64:  
+
+- ![msvcp140d.dll](http://dlltop.ru//files/msvcp140d-64.zip)  
+-	![vcruntime140.dll](http://dlltop.ru//files/vcruntime140-64.zip)  
+-	![ucrtbased.dll](http://dlltop.ru//files/ucrtbase-64.zip )  
+
+Для x32: 
+
+-	![msvcp140d.dll](http://dlltop.ru//files/msvcp140d.zip)  
+-	![vcruntime140.dll](http://dlltop.ru//files/vcruntime140.zip)  
+-	![ucrtbased.dll](http://dlltop.ru//files/ucrtbase.zip)  
 
 ## <a name="code">Описание кода программы:</a>
 
@@ -58,7 +75,6 @@
 #include<iostream> //Библиотека ввода и вывода информации
 #include<stdlib.h> //Стандартная библиотека для контроля выполнения программы
 #include<time.h> //Библиотека для работы с системной датой и временем. Используется при расчете случайного значения
-using namespace std; //Использование стандартного пространства имен
 ```
   
 ### Основные функции:
