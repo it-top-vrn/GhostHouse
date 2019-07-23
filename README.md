@@ -58,15 +58,15 @@
 
 Для x64:  
 
-- ![msvcp140d.dll](http://dlltop.ru//files/msvcp140d-64.zip)  
--	![vcruntime140.dll](http://dlltop.ru//files/vcruntime140-64.zip)  
--	![ucrtbased.dll](http://dlltop.ru//files/ucrtbase-64.zip )  
+- [msvcp140d.dll](http://dlltop.ru//files/msvcp140d-64.zip)  
+-	[vcruntime140.dll](http://dlltop.ru//files/vcruntime140-64.zip)  
+-	[ucrtbased.dll](http://dlltop.ru//files/ucrtbase-64.zip )  
 
 Для x32: 
 
--	![msvcp140d.dll](http://dlltop.ru//files/msvcp140d.zip)  
--	![vcruntime140.dll](http://dlltop.ru//files/vcruntime140.zip)  
--	![ucrtbased.dll](http://dlltop.ru//files/ucrtbase.zip)  
+-	[msvcp140d.dll](http://dlltop.ru//files/msvcp140d.zip)  
+-	[vcruntime140.dll](http://dlltop.ru//files/vcruntime140.zip)  
+-	[ucrtbased.dll](http://dlltop.ru//files/ucrtbase.zip)  
 
 ## <a name="code">Описание кода программы:</a>
 
