@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHouse/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse/badge)](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse) [![github](https://github.githubassets.com/favicon.ico)](https://github.com/AndreyDolzhenko)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/itstep-vrn/GhostHouse/blob/master/LICENSE) [![CodeFactor](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse/badge)](https://www.codefactor.io/repository/github/itstep-vrn/ghosthouse) [![Gitter](https://badges.gitter.im/itstep-vrn/GhostHouse.svg)](https://gitter.im/itstep-vrn/GhostHouse?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![github](https://github.githubassets.com/favicon.ico)](https://github.com/AndreyDolzhenko)
 
 # Ghost House (Дом с Привидениями)
 Консольная игра-угадайка.
